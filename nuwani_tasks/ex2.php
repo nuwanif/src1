@@ -5,7 +5,7 @@
       <h1 class="mx-auto p-2 scw" style=" text-align: center;">Welcome to Sri Lanka</h1>
 
       <div class="rounded mx-auto d-block text-center"> 
-        <img src="images/frame1/1-1.png" class=" imageh" alt="image" >
+        <img src="./images/frame1/1-1.png" class=" imageh" alt="image" >
         <img src="images/frame1/1-2.jpg" class="imageh" alt="image">
         <img src="images/frame1/1-3.jpg" class="imageh" alt="image" >
         <img src="images/frame1/1-4.jpg" class="imageh" alt="image" >
